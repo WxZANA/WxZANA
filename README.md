@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm WxZANA 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Developer+%7C+Builder+%7C+Lifelong+learner;Exploring+new+languages+and+frameworks;Currently+shipping+something+new" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:FF2079,100:00FFF0&height=200&section=header&text=WxZANA&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Night City header banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-  <a href="https://github.com/WxZANA?tab=followers"><img src="https://img.shields.io/github/followers/WxZANA?label=Followers&style=flat&color=58A6FF" alt="Followers" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=Choom+%7C+Netrunner+%7C+Lifelong+learner;Building+in+the+shadows+of+Night+City;Chrome%2C+code%2C+and+no+half-measures" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=00FFF0&style=flat" alt="Profile views" />
+  <a href="https://github.com/WxZANA?tab=followers"><img src="https://img.shields.io/github/followers/WxZANA?label=Followers&style=flat&color=FF2079" alt="Followers" /></a>
 </p>
 
 ## About me
@@ -19,6 +21,15 @@ Outside of the terminal, I read and write regularly, and I lift — bodybuilding
 - 🔐 Digging into cybersecurity — how things break is as interesting as how they're built
 - 📚 Reader and writer when I'm away from the keyboard
 - 🏋️ Bodybuilder — same discipline as debugging, just with a barbell
+
+## Night City
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6dTUydHo0aGxsbmRjZnIwcHp4bnUyMnVxMHE5dmw0b21ldjl4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/REUc0IGPULtvuTa3zb/giphy.gif" alt="David Martinez, Cyberpunk: Edgerunners" width="47%" />
+  <img src="https://media.tenor.com/fwOIqS45EWUAAAAM/adam-smasher-edgerunners.gif" alt="Adam Smasher, Cyberpunk: Edgerunners" width="47%" />
+</p>
+
+<p align="center"><sub><i>Wanna be a legend. Don't care how.</i></sub></p>
 
 ## Tech stack
 
