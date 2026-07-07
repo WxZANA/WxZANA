@@ -11,12 +11,14 @@
 
 ## About me
 
-I'm a developer who likes learning new stacks by actually building with them rather than just reading docs. This profile is where I keep experiments, side projects, and whatever I'm currently digging into.
+I'm a student with 4+ years of hands-on experience across software development internships — turning coursework into real, shipped code along the way. Cybersecurity is what pulls me in the deepest: understanding how systems break is as interesting to me as building them.
 
-- 🔭 Currently building side projects and sharpening my stack
-- 🌱 Always picking up something new, one repo at a time
-- 💬 Ask me about Java, C#, JS/TS, Python, or Flutter
-- ⚡ Fun fact: this README used to be a wall of badges, now it's a slightly smaller wall of badges
+Outside of the terminal, I read and write regularly, and I lift — bodybuilding scratches the same itch as debugging: show up, track progress, iterate.
+
+- 🎓 Student, 4+ years of experience through software development internships
+- 🔐 Digging into cybersecurity — how things break is as interesting as how they're built
+- 📚 Reader and writer when I'm away from the keyboard
+- 🏋️ Bodybuilder — same discipline as debugging, just with a barbell
 
 ## Tech stack
 
@@ -66,11 +68,6 @@ I'm a developer who likes learning new stacks by actually building with them rat
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WxZANA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WxZANA&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=WxZANA&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -78,14 +75,14 @@ I'm a developer who likes learning new stacks by actually building with them rat
   <img src="https://github-profile-trophy.vercel.app/?username=WxZANA&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
 </p>
 
-## Contribution snake
+## GitHub metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WxZANA/WxZANA/output/github-contribution-grid-snake.svg" alt="Contribution snake animating my GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/WxZANA/WxZANA/main/github-metrics.svg" alt="Animated GitHub metrics dashboard" />
 </p>
 
 <p align="center">
-  <sub>Snake animation renders itself from a scheduled GitHub Action — see setup note below.</sub>
+  <sub>Dashboard renders itself from a scheduled GitHub Action — see setup note below.</sub>
 </p>
 
 ---
