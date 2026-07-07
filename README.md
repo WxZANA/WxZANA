@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=Choom+%7C+Netrunner+%7C+Lifelong+learner;Building+in+the+shadows+of+Night+City;Chrome%2C+code%2C+and+no+half-measures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Security+nerd;Into+building+things+and+breaking+them;Probably+at+the+gym+or+the+keyboard" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,23 +13,14 @@
 
 ## About me
 
-I'm a student with 4+ years of hands-on experience across software development internships — turning coursework into real, shipped code along the way. Cybersecurity is what pulls me in the deepest: understanding how systems break is as interesting to me as building them.
+I'm a student with a few years of experience through software development internships. I'm big into cybersecurity — I like figuring out how things break as much as building them.
 
-Outside of the terminal, I read and write regularly, and I lift — bodybuilding scratches the same itch as debugging: show up, track progress, iterate.
-
-- 🎓 Student, 4+ years of experience through software development internships
-- 🔐 Digging into cybersecurity — how things break is as interesting as how they're built
-- 📚 Reader and writer when I'm away from the keyboard
-- 🏋️ Bodybuilder — same discipline as debugging, just with a barbell
-
-## Night City
+Outside of code I read, write, and lift.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6dTUydHo0aGxsbmRjZnIwcHp4bnUyMnVxMHE5dmw0b21ldjl4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/REUc0IGPULtvuTa3zb/giphy.gif" alt="David Martinez, Cyberpunk: Edgerunners" width="47%" />
-  <img src="https://media.tenor.com/fwOIqS45EWUAAAAM/adam-smasher-edgerunners.gif" alt="Adam Smasher, Cyberpunk: Edgerunners" width="47%" />
+  <img src="https://media.giphy.com/media/DpBISBXeaCXDW2QGBN/giphy.gif" alt="David Martinez" width="47%" />
+  <img src="https://media.tenor.com/fwOIqS45EWUAAAAM/adam-smasher-edgerunners.gif" alt="Adam Smasher" width="47%" />
 </p>
-
-<p align="center"><sub><i>Wanna be a legend. Don't care how.</i></sub></p>
 
 ## Tech stack
 
