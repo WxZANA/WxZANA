@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:FF2079,100:00FFF0&height=200&section=header&text=WxZANA&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Night City header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:FFD500,100:0057FF&height=200&section=header&text=WxZANA&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Night City header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Security+nerd;Into+building+things+and+breaking+them;Probably+at+the+gym+or+the+keyboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFD500&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Security+nerd;Into+building+things+and+breaking+them;Probably+at+the+gym+or+the+keyboard" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=00FFF0&style=flat" alt="Profile views" />
-  <a href="https://github.com/WxZANA?tab=followers"><img src="https://img.shields.io/github/followers/WxZANA?label=Followers&style=flat&color=FF2079" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=0057FF&style=flat" alt="Profile views" />
+  <a href="https://github.com/WxZANA?tab=followers"><img src="https://img.shields.io/github/followers/WxZANA?label=Followers&style=flat&color=FFD500" alt="Followers" /></a>
 </p>
 
 ## About me
