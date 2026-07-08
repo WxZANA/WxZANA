@@ -22,6 +22,10 @@ Outside of code I read, write, and lift.
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjdrY2FtNmw1ZmhiZjYwNTk2bjZkOGd1ajdqNHJucWppdWYwbnNoaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gz6J4jH7HR6q0jJK5d/giphy.gif" alt="David Martinez" width="47%" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQzdmRxZTduOWpvM2ZxdDMwbGx6bWZ0bGRxaHV4ZmF4ZGx0dm5wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/inkvgiRqjduuhL3jH1/giphy.gif" alt="David Martinez" width="47%" />
+</p>
+
 ## Tech stack
 
 <details open>
