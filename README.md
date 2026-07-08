@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a student with a few years of experience through software development internships. I'm big into cybersecurity — I like figuring out how things break as much as building them.
+I'm a student with 4+ years of experience through software development internships. I'm big into cybersecurity — I like figuring out how things break as much as building them.
 
 Outside of code I read, write, and lift.
 
