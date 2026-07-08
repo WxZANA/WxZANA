@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:FFD500,100:0057FF&height=200&section=header&text=WxZANA&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Night City header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:FFD500,100:40C4FF&height=200&section=header&text=WxZANA&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Night City header banner" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=0057FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WxZANA&label=Profile%20Views&color=40C4FF&style=flat" alt="Profile views" />
   <a href="https://github.com/WxZANA?tab=followers"><img src="https://img.shields.io/github/followers/WxZANA?label=Followers&style=flat&color=FFD500" alt="Followers" /></a>
 </p>
 
@@ -19,7 +19,7 @@ Outside of code I read, write, and lift.
 
 <p align="center">
   <img src="https://media.giphy.com/media/DpBISBXeaCXDW2QGBN/giphy.gif" alt="David Martinez" width="47%" />
-  <img src="https://media.tenor.com/fwOIqS45EWUAAAAM/adam-smasher-edgerunners.gif" alt="Adam Smasher" width="47%" />
+  <img src="https://media.giphy.com/media/XVa4516gs2Cg62FiuR/giphy.gif" alt="David Martinez" width="47%" />
 </p>
 
 ## Tech stack
