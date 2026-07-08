@@ -19,7 +19,7 @@ Outside of code I read, write, and lift.
 
 <p align="center">
   <img src="https://media.giphy.com/media/DpBISBXeaCXDW2QGBN/giphy.gif" alt="David Martinez" width="47%" />
-  <img src="https://media.giphy.com/media/LHqR4N3MKsCIdH3l3n/giphy.gif" alt="David Martinez" width="47%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjdrY2FtNmw1ZmhiZjYwNTk2bjZkOGd1ajdqNHJucWppdWYwbnNoaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gz6J4jH7HR6q0jJK5d/giphy.gif" alt="David Martinez" width="47%" />
 </p>
 
 ## Tech stack
